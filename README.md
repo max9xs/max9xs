@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/max9xs" target="blank"><img src="https://img.shields.io/twitter/follow/max9xs?logo=twitter&style=for-the-badge" alt="max9xs" /></a> </p>
 
-- 🌱 I’m currently exloring **SwiftUI,Combine, Metal, AI**
+- 🌱 I’m currently exloring **SwiftUI, Vision OS,Combine, Metal, AI**
 
 - 💬 Ask me about **UIKit, Swift, Arkit, CoreML, UX Design**
 
